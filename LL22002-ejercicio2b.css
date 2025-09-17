@@ -1,0 +1,72 @@
+pais {
+  display: block;
+  background-color: #1d1c1a; /* beige */
+  padding: 15px;
+  font-family: Verdana, sans-serif;
+}
+
+area_territorial {
+  display: block;
+  font-weight: bold;
+  color: #aba9a9; /* rojo oscuro */
+  margin-bottom: 8px;
+}
+
+monedas {
+  display: block;
+  background-color: #282020;
+  padding: 5px;
+  margin: 5px 0;
+}
+
+moneda {
+  display: inline-block;
+  margin-right: 10px;
+  color: #00008b; /* azul oscuro */
+}
+
+idiomas {
+  display: block;
+  margin: 8px 0;
+}
+
+oficial {
+  display: block;
+  color: green;
+}
+
+autoctono {
+  display: block;
+  color: brown;
+}
+
+segundo {
+  display: block;
+  color: purple;
+}
+
+departamento {
+  display: block;
+  border: 2px dashed #696969; /* borde punteado gris */
+  margin: 10px 0;
+  padding: 8px;
+  background-color: #fafafa;
+}
+
+cabecera {
+  display: block;
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #2f4f4f;
+}
+
+habitantes {
+  display: block;
+  color: #006400;
+}
+
+altura {
+  display: block;
+  font-style: italic;
+  color: #000;
+}

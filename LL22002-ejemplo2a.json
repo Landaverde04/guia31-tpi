@@ -1,0 +1,28 @@
+{
+  "pais": {
+    "area_territorial": 21041,
+    "monedas": {
+      "moneda": [
+        "",
+        ""
+      ]
+    },
+    "idiomas": {
+      "oficial": "Español",
+      "autoctono": "Náhuat",
+      "segundo": "Inglés"
+    },
+    "departamento": [
+      {
+        "cabecera": "San Salvador",
+        "habitantes": 1700000,
+        "altura": 545
+      },
+      {
+        "cabecera": "Santa Ana",
+        "habitantes": 613000,
+        "altura": 665
+      }
+    ]
+  }
+}

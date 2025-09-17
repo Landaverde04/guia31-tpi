@@ -1,0 +1,40 @@
+fichero {
+  display: block;
+  background-color: #805e5e;
+  padding: 10px;
+}
+
+ficha {
+  display: block;
+  border: 1px solid black;
+  margin: 5px 0;
+  padding: 5px;
+  background-color: #fff;
+}
+
+nombre {
+  display: block;
+  font-weight: bold;
+  color: rgb(70, 70, 88);
+}
+
+apellido {
+  display: block;
+  color: rgb(28, 30, 28);
+}
+
+direccion {
+  display: block;
+  color: brown;
+}
+
+correo {
+  display: block;
+  color: rgb(93, 73, 93);
+}
+
+website {
+  display: block;
+  color: rgb(128, 0, 119);
+  text-decoration: underline;
+}
